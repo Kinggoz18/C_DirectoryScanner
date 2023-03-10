@@ -1,4 +1,3 @@
-#############################################################
 # C_DirectoryScanner
 ## Name: scan_directory.c
 ## Written by: Chigozie Muonagolu - Febuary 2022
@@ -22,4 +21,4 @@ None
 ## Limitations
 ---------------------------------
 Please note that C_DirectoryScanner is limited and does not scan subdirectories. It was originally developed as a course assignment and has not been further developed.
-#############################################################
+
